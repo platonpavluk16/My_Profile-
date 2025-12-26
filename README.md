@@ -1,40 +1,44 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=MY+NAME+PLATON;I+GAME+DEVELOPER)](https://git.io/typing-svg)
+
+# Hi 👋, I'm PLATON
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Unity;Building+my+own+Game+Engine;C%23+%7C+C+%7C+Python+%7C+Linux;Low-level+Programming+Enjoyer" />
 
 </div>
 
 ---
 
 ## 🧠 About me
-- 💻 Programmer in **C, C++, Python, Assembly**
-- 🌐 Front-end developer
-- 📱 Mobile development
-- 🔬 Interested in **low-level programming**
+- 🎮 **Game Developer** — створюю ігри на **Unity**
+- 🛠️ **Engine Developer** — розробляю **власний ігровий двигун**
+- 💻 Programmer in **C#, C, Python**
+- 🐧 Працюю з **Linux**, використовую **Vim**
+- 🔬 Захоплююсь **low-level programming** та внутрішньою архітектурою ігор
 
 ---
 
 ## 🚀 Currently
-- 🔭 Working on **x16-Pros**
-- 🌱 Learning **Next.js**
-- 💬 Ask me about **Low-level & C/C++**
+- 🔭 Працюю над **власним Game Engine**
+- 🎮 Розробляю ігри на **Unity**
+- 🌱 Прокачую **C# та системне програмування**
+- 💬 Питай мене про **Unity, Game Engines, Low-level**
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,c,python,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=cs,c,python,unity,linux,vim,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PLATON&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRoX2011&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLATON&theme=tokyonight" />
 </p>
 
 ---
@@ -43,3 +47,4 @@
 - 🌐 Website: https://x16-pros.netlify.app
 - 💬 Telegram: https://t.me/PRoXChannel
 - 🧠 Discord: PRoX_Dev
+
