@@ -30,14 +30,3 @@
   <img src="https://skillicons.dev/icons?i=cs,c,python,unity,linux,vim,git" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PLATON&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLATON&theme=tokyonight" />
-</p>
-
