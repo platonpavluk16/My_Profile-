@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm PRoX
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Front-end+Developer;Low-level+Programmer;C+%2F+C%2B%2B+%2F+Python+%2F+ASM" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NAME+PLATON;I+GAME+DEVELOPER)](https://git.io/typing-svg)
 
 </div>
 
